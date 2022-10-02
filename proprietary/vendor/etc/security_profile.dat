@@ -1,0 +1,66 @@
+Tue, 12 Apr 2022 11:53:08 +0900
+:TZ_DRM
+Number of modules
+6
+system/bin/mediaserver
+dea2c4d8949f4e9ba97a8ad13e6b45eb41577fe62f120350a01f6a929abd167a
+system/bin/drmserver
+5442a3d6519ab229d1b1a06e1a2524bb17876303fa35ff3922bdc7fdc7b6c659
+system/lib/libstagefright.so
+63f016fb5f73c4d66acd84a5a227880aec19e0e7647733f45bc19050ef8272a9
+system/lib64/libstagefright.so
+41af3b6d8cf898250ba035f4ae530fd1d97eadd3ad4e31dc136f98d3eab3690b
+system/lib/libdrmframework.so
+99b2c61b6989bc7f3570ccc63f99f1a3e16d34a32eb7d567a229b6ad3df4b9c9
+system/lib/libdrmframework_jni.so
+1370d63750e39560636c5b4a82cb1332905bd321e894040a1080a0811a96e55f
+:FIDD
+Number of modules
+0
+:CC
+Number of modules
+19
+system/bin/app_process
+cd5c5d84dff88b473b0c07f6b83bd8e6a36bc5a8be30d995fae7b9cd2eda8fbd
+system/bin/charon
+e3493a6e8d488a05bbc0593b8a5502b133b736f91b2067fe2541773e4d6bbad7
+system/bin/gatekeeperd
+68d0190b368ffc84395b030568b5d90c4b05041b54214a30269c093815d6d94a
+system/bin/keystore
+962ef9d5479064757fedda5effa26e1057dece55c67cee10461f8bbdb8060bea
+system/bin/vold
+92748e3112c79ec4818f621e9e34725944a68f1e4ef9073080e007556f036783
+system/lib64/libcharon.so
+0844afd0a9ff1b9d9ce50b4dc36899be27cf37d7ed346f263f51d8c5cb193b73
+system/lib/libcrypto.so
+a5dae8a070426af4058ced43865c11ad9ccc2f3f059d08e5578ec3602e4c98fa
+system/lib64/libcrypto.so
+ff6a94b0137b1730fbaf13f384af363fe4e339f58552ca828d0a99a6360e8956
+system/lib/libkeystore_binder.so
+812669c24c5415e696ed89ad15b73a4db739fcb3ab9603ed3d216e546a854dc3
+system/lib64/libkeystore_binder.so
+2f10e799fe9f8b6c136e6d11f0d8d0fe0a69ae34d163d0702bfb6758c8642c29
+system/lib64/libkeyutils.so
+f695921f74fa93fde4adbaf52d3a4513929036a444d1255e34ea9c27c5736817
+system/lib/libmdf.so
+4b5d94afbc16f4a0d23eccb39e5b6c724da4494fb0d09fcfc23ef3797432d0a1
+system/lib64/libmdf.so
+a38853595d3da6e33f82e0692b64ee5493ce86d0b70a1812a38303b11a31616c
+system/lib/libssl.so
+4c2616424b8bb506ced18c13af69379808b1ef452580da19b8850fbda45160fe
+system/lib64/libssl.so
+abb0e369dcb5a96e7ca10be0329cf131b019ddc7cd4ccc958f53c842863d6dab
+system/lib64/libstrongswan.so
+edc0d56f323baa46117281aa0875df32f7482bd57dd8acd34e24b0c3b19166ca
+vendor/bin/hw/wpa_supplicant
+17a14eea586651d73fc5bd8ddd534b22144025a58e869f063c0d3512021478df
+vendor/lib/libmdf.so
+f5d7156d8e91cbe76c4cd53088081430304e3ee1d94b93653717474855df693b
+vendor/lib64/libmdf.so
+8d27b1dbb7809578d9366247dfdeb8224472fcd4f3b26c98f6100ea0267ee24d
+:SYSSCOPE
+Number of modules
+0
+@YËæ”¦„?±À±ƒQGi.Ï|É)*†
+ýKô™jr"è5B (arÄÈ’Q#ÞÑe‡ùR™„@Œ´Tî…^10ª¼ìÝ>3‘V"öÄ[™jl„ÿƒ*iF#9òsß7ù¨s‹–&kÙ½·éÕ="7ü¤âU{¬$#j‡oœ€‚¡a6`¥×²Vb0ËÁÿÒ[p%]²Ÿla˜í#G’î"80
+¨äß‘ôæTà"~¶Cwž3ŠÎ+Qs’EXÊ/X»½2®±È~uy¬½/ípó•Â\qùÛ{`ÕÛ›Îr¢I°ç1=P ÝK]`¶ò€ôGI“é
